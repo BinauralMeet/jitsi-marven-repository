@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 17 15:00:27 JST 2020
+jitsi-media-transform-1.0-SNAPSHOT-sources.jar>=
+jitsi-media-transform-1.0-SNAPSHOT.pom>=
+jitsi-media-transform-1.0-SNAPSHOT.jar>=
